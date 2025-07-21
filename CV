@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CV - Piotr Kostrzewa</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Portfolio of Piotr Kostrzewa, educator and data science enthusiast.">
+  <meta name="keywords" content="Piotr Kostrzewa, CV, educator, data science, theology, Poland">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    html, body, h1, h2, h3, h4, h5, h6 {font-family: "Roboto", sans-serif;}
+    body {background-color: #f5f6fa;}
+    .w3-card {animation: fadeIn 1s;}
+    @keyframes fadeIn {from {opacity: 0;} to {opacity: 1;}}
+    .w3-third img {border-radius: 10px;}
+    @media (max-width: 600px) {
+      .w3-third, .w3-twothird {width: 100%;}
+    }
+  </style>
+</head>
+<body class="w3-container">
+
+<!-- Navigation Bar -->
+<div class="w3-bar w3-teal">
+  <a href="#about" class="w3-bar-item w3-button">About</a>
+  <a href="#experience" class="w3-bar-item w3-button">Experience</a>
+  <a href="#education" class="w3-bar-item w3-button">Education</a>
+  <a href="#projects" class="w3-bar-item w3-button">Projects</a>
+  <a href="#certifications" class="w3-bar-item w3-button">Certifications</a>
+  <a href="#interests" class="w3-bar-item w3-button">Interests</a>
+  <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+</div>
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+      <div class="w3-white w3-text-grey w3-card-4" style="background: linear-gradient(to bottom, #4CAF50, #45a049);">
+        <div class="w3-display-container">
+          <img src="piotr_kostrzewa.jpg" style="width:100%;" alt="Piotr Kostrzewa">
+          <div class="w3-display-bottomleft w3-container w3-text-white">
+            <h2>Piotr Kostrzewa</h2>
+          </div>
+        </div>
+        <div class="w3-container" style="background-color: #fff;">
+          <p class="w3-large w3-text-teal">Dedicated educator and data enthusiast with a passion for theology and analytics.</p>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Educator & Data Enthusiast</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>02-107 Warszawa, Poland</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="mailto:piotr.kostrzewa@icloud.com">piotr.kostrzewa@icloud.com</a></p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>501 471 294</p>
+          <p><i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://www.linkedin.com/in/piotrkostrzewa/" target="_blank">LinkedIn</a></p>
+          <p><i class="fa fa-github fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://github.com/D3xt3r7" target="_blank">GitHub</a></p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Python</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
+          </div>
+          <p>XML Validation (lxml)</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
+          </div>
+          <p>Microsoft Excel</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+          </div>
+          <p>Data Analysis</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:70%"></div>
+          </div>
+          <p>Italiano</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:30%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom" id="about">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-user fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About</h2>
+        <div class="w3-container">
+          <p>Passionate educator and data enthusiast with a strong background in theology and emerging expertise in data science. Committed to leveraging analytical skills to drive insights and promote ethical technology use.</p>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom" id="experience">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Teacher</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2022 - Aug 2025 <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>21st Hugo Kołłątaj General Secondary School, Warsaw</h6>
+          <p>- Deliver engaging lessons in Religion, Philosophy, and Ethics to secondary school students.</p>
+          <p>- Develop educational materials and assess student progress with accuracy and creativity.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Educator and Pastoral Coordinator</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2022 - May 2025</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Roman Catholic Church, Warsaw</h6>
+          <p>- Conducted educational classes and coordinated religious, cultural, and community events.</p>
+          <p>- Managed parish office operations, including document administration and inquiry handling.</p>
+          <p>- Provided pastoral and advisory support to youth and adults, demonstrating empathy and leadership.</p>
+          <hr>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white" id="education">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Master of Theology</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Oct 2016 - May 2022</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>Catholic Academy in Warsaw</h6>
+          <p>- Graduated as one of the top students in the faculty.</p>
+          <p>- Master’s thesis: "Contemporary Phenomenological Philosophy of Michel Henry."</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Postgraduate Studies in Data Science in Business</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Oct 2025 - Present</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-building fa-fw w3-margin-right"></i>SGH Warsaw School of Economics</h6>
+          <p>- Focused on applying data science techniques to business analytics and decision-making.</p>
+          <hr>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom" id="projects">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-star fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>XML Validation and Transformation</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-github fa-fw w3-margin-right"></i><a href="https://github.com/D3xt3r7/XML" target="_blank">GitHub</a></h6>
+          <p>- Developed a Python script using lxml to validate XML data against XSD schemas and transform it into HTML reports using XSLT.</p>
+          <p>- Focus: Applying data structuring and visualization techniques relevant to big data analytics.</p>
+          <hr>
+          <h5 class="w3-opacity"><b>Extracting Stock Data Using Web Scraping</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-github fa-fw w3-margin-right"></i><a href="https://github.com/D3xt3r7/Python-" target="_blank">GitHub</a></h6>
+          <p>- Demonstrates web scraping to extract stock data (e.g., Netflix) using requests and BeautifulSoup, creating a pandas DataFrame with metrics (Date, Open, High, Low, Close, Volume) and comparing with pd.read_html data.</p>
+          <p>- Dependencies: pandas, requests, bs4, html5lib, lxml, plotly.</p>
+          <hr>
+          <h5 class="w3-opacity"><b>Extracting Stock Market Data Using Python</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-github fa-fw w3-margin-right"></i><a href="https://github.com/D3xt3r7/Python-" target="_blank">GitHub</a></h6>
+          <p>- Uses yfinance to download historical stock data (e.g., Apple) and visualizes it with matplotlib, including dividend data and JSON file handling.</p>
+          <p>- Dependencies: yfinance, matplotlib, pandas.</p>
+          <hr>
+          <h5 class="w3-opacity"><b>The GDP Scraper</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-github fa-fw w3-margin-right"></i><a href="https://github.com/D3xt3r7/Python-" target="_blank">GitHub</a></h6>
+          <p>- Scrapes GDP data from a Wikipedia archive using pandas.read_html, processes it to list the top 10 economies, and saves to a CSV file.</p>
+          <p>- Dependencies: numpy, pandas.</p>
+          <hr>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom" id="certifications">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-trophy fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Certifications</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Data Analytics Course with Generative AI</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>Simplilearn, Jul 2025 (ID: L19UDMIRTX9A)</h6>
+          <p>Skills: HTML5</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Python Project for Data Science</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>IBM, Jul 2025 (ID: CI7XFAPIMX0O)</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Data Preparation for Analysis with Microsoft Excel</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>Microsoft, Jun 2025 (ID: R2ONGOAHR1DK)</h6>
+          <p>Skills: Microsoft Excel, Business Analysis, Data Analysis</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Python for Data Science, AI & Development</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>IBM, Jun 2025 (ID: 0YAFA7ONCCCU)</h6>
+          <p>Skills: Git, Business Analysis, Python, Data Analysis</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>What is Data Science?</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>IBM, Apr 2025 (ID: P0M75AZQA9E2)</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Independent Accountant Course</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>In Progress, Started May 2025</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>W3Schools XML Tutorial</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>In Progress</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>lxml Validation Tutorial</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>In Progress</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Real Python: XML Parsers</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>In Progress</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Coursera Expert Training</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right"></i>In Progress, Started Jul 2025</h6>
+          <p>(Google, Adobe, Microsoft, etc.)</p>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom" id="interests">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-heart fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Interests</h2>
+        <div class="w3-container">
+          <p>- Exploring big data analytics to uncover actionable insights, with a focus on data visualization using Python and Tableau.</p>
+          <p>- Studying the ethical dimensions of big data to promote responsible and inclusive technology solutions.</p>
+          <p>- Developing skills in accounting and financial management through self-directed learning.</p>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-teal w3-center w3-margin-top" id="contact">
+  <p>Find me on social media.</p>
+  <a href="https://www.linkedin.com/in/piotrkostrzewa/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity" style="color:white;"></i></a>
+  <a href="https://github.com/D3xt3r7" target="_blank"><i class="fa fa-github w3-hover-opacity" style="color:white;"></i></a>
+  <p>Email: <a href="mailto:piotr.kostrzewa@icloud.com" style="color:white;">piotr.kostrzewa@icloud.com</a></p>
+  <p>Phone: <span style="color:white;">501 471 294</span></p>
+  <p class="w3-small" style="color:white;">Last updated: July 21, 2025</p>
+  <p class="w3-small" style="color:white;">This website was made with W3Schools Spaces. Make your own free website today!</p>
+  <a class="w3-button w3-round-xxlarge w3-small w3-light-grey w3-margin-bottom" href="https://www.w3schools.com/spaces" target="_blank">Start now</a>
+</footer>
+
+</body>
+</html>
